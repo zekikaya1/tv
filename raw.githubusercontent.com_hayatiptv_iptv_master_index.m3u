@@ -50,6 +50,60 @@ http://37.49.225.182:8080/kodicologne/48e237edd2/7435
 http://37.49.225.182:8080/kodicologne/48e237edd2/7438
 #EXTINF:-1 tvg-id="" tvg-name="UK: TNT Spor: 10" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" tvg-id2="" group-title="🌍 UK Spor:",UK: TNT Spor: 10
 http://37.49.225.182:8080/kodicologne/48e237edd2/283203
+#EXTINF:-1 tvg-id="skysportaustria.at" tvg-name="AT: Sky Sport Austria 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/3610fcefa8e58c4d9c27af91c71a7996.png" tvg-id2="" group-title="🌍 Austria",AT: Sky Sport Austria 1
+http://37.49.225.182:8080/kodicologne/48e237edd2/2130
+#EXTINF:-1 tvg-id="" tvg-name="AT: Sky Sport Austria 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/9fdbe61de418c860d0f51acab33cd3d5.png" tvg-id2="" group-title="🌍 Austria",AT: Sky Sport Austria 2
+http://37.49.225.182:8080/kodicologne/48e237edd2/192010
+#EXTINF:-1 tvg-id="" tvg-name="AT: Sky Sport Austria 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/bf0ec45566171fc1fe07e3bb7fda848f.png" tvg-id2="" group-title="🌍 Austria",AT: Sky Sport Austria 3
+http://37.49.225.182:8080/kodicologne/48e237edd2/192374
+#EXTINF:-1 tvg-id="" tvg-name="AT: Sky Sport Austria 4" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/1411fab83c8bffe7da7727a3d589afa8.png" tvg-id2="" group-title="🌍 Austria",AT: Sky Sport Austria 4
+http://37.49.225.182:8080/kodicologne/48e237edd2/295541
+#EXTINF:-1 tvg-id="" tvg-name="AT: Sky Sport Austria 5" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/65617951bce92e5e47beed8db2dad8a7.png" tvg-id2="" group-title="🌍 Austria",AT: Sky Sport Austria 5
+http://37.49.225.182:8080/kodicologne/48e237edd2/295542
+#EXTINF:-1 tvg-id="" tvg-name="AT: Sky Sport Austria 6" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/da00923e46c4a542ad3396823d35e0e6.png" tvg-id2="" group-title="🌍 Austria",AT: Sky Sport Austria 6
+http://37.49.225.182:8080/kodicologne/48e237edd2/295543
+#EXTINF:-1 tvg-id="" tvg-name="|UK| Sky Sport Haber: 4K+" tvg-logo="" tvg-id2="" group-title="🌍 UK : Sport",|UK| Sky Sport Haber: 4K+
+http://login.lionboxxtv.xyz:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/13891
+#EXTINF:-1 tvg-id="" tvg-name="|UK| Sky Spor: Action 4K+" tvg-logo="" tvg-id2="" group-title="🌍 UK : Sport",|UK| Sky Spor: Action 4K+
+http://login.lionboxxtv.xyz:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/13892
+#EXTINF:-1 tvg-id="" tvg-name="|UK| Sky Spor: Futbol: 4K+" tvg-logo="" tvg-id2="" group-title="🌍 UK : Sport",|UK| Sky Spor: Futbol: 4K+
+http://login.lionboxxtv.xyz:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/13893
+#EXTINF:-1 tvg-id="" tvg-name="|UK| Sky Spor: Golf 4K+" tvg-logo="" tvg-id2="" group-title="🌍 UK : Sport",|UK| Sky Spor: Golf 4K+
+http://login.lionboxxtv.xyz:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/13894
+#EXTINF:-1 tvg-id="" tvg-name="|UK| Sky Spor: Cricket 4K+" tvg-logo="" tvg-id2="" group-title="🌍 UK : Sport",|UK| Sky Spor: Cricket 4K+
+http://login.lionboxxtv.xyz:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/13895
+#EXTINF:-1 tvg-id="" tvg-name="|UK| Sky Spor: F1 4K+" tvg-logo="" tvg-id2="" group-title="🌍 UK : Sport",|UK| Sky Spor: F1 4K+
+http://login.lionboxxtv.xyz:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/13896
+#EXTINF:-1 tvg-id="" tvg-name="|UK| Sky Spor: Arena 4K+" tvg-logo="" tvg-id2="" group-title="🌍 UK : Sport",|UK| Sky Spor: Arena 4K+
+http://login.lionboxxtv.xyz:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/13897
+#EXTINF:-1 tvg-id="" tvg-name="|UK| Sky Spor: Mix 4K+" tvg-logo="" tvg-id2="" group-title="🌍 UK : Sport",|UK| Sky Spor: Mix 4K+
+http://login.lionboxxtv.xyz:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/13898
+#EXTINF:-1 tvg-id="" tvg-name="|UK| Sky Spor: Main Event 4K+" tvg-logo="" tvg-id2="" group-title="🌍 UK : Sport",|UK| Sky Spor: Main Event 4K+
+http://login.lionboxxtv.xyz:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/13899
+#EXTINF:-1 tvg-id="" tvg-name="|UK| Sky Spor: Premier League 4K+" tvg-logo="" tvg-id2="" group-title="🌍 UK : Sport",|UK| Sky Spor: Premier League 4K+
+http://login.lionboxxtv.xyz:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/13900
+#EXTINF:-1 tvg-id="" tvg-name="|UK| BT Sport ESPN 4K+" tvg-logo="" tvg-id2="" group-title="🌍 UK : Sport",|UK| BT Sport ESPN 4K+
+http://login.lionboxxtv.xyz:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/13901
+#EXTINF:-1 tvg-id="" tvg-name="|UK| BT Sport 1 4K+" tvg-logo="" tvg-id2="" group-title="🌍 UK : Sport",|UK| BT Sport 1 4K+
+http://login.lionboxxtv.xyz:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/13902
+#EXTINF:-1 tvg-id="" tvg-name="|UK| BT Sport 2 4K+" tvg-logo="" tvg-id2="" group-title="🌍 UK : Sport",|UK| BT Sport 2 4K+
+http://login.lionboxxtv.xyz:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/13903
+#EXTINF:-1 tvg-id="" tvg-name="|UK| BT Sport 3 4K+" tvg-logo="" tvg-id2="" group-title="🌍 UK : Sport",|UK| BT Sport 3 4K+
+http://login.lionboxxtv.xyz:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/13904
+#EXTINF:-1 tvg-id="" tvg-name="|UK| At The Races" tvg-logo="" tvg-id2="" group-title="🌍 UK : Sport",|UK| At The Races
+http://login.lionboxxtv.xyz:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/13911
+#EXTINF:-1 tvg-id="" tvg-name="|UK| Eurosport 1 4K+" tvg-logo="" tvg-id2="" group-title="🌍 UK : Sport",|UK| Eurosport 1 4K+
+http://login.lionboxxtv.xyz:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/13912
+#EXTINF:-1 tvg-id="" tvg-name="|UK| Liverpool TV 4K+" tvg-logo="" tvg-id2="" group-title="🌍 UK : Sport",|UK| Liverpool TV 4K+
+http://login.lionboxxtv.xyz:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/13913
+#EXTINF:-1 tvg-id="" tvg-name="|UK| Box Nation 4K+" tvg-logo="" tvg-id2="" group-title="🌍 UK : Sport",|UK| Box Nation 4K+
+http://login.lionboxxtv.xyz:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/13914
+#EXTINF:-1 tvg-id="" tvg-name="|UK| Premier Spor: 1 4K+" tvg-logo="" tvg-id2="" group-title="🌍 UK : Sport",|UK| Premier Spor: 1 4K+
+http://login.lionboxxtv.xyz:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/13915
+#EXTINF:-1 tvg-id="" tvg-name="|UK| Eir Spor: 1 4K+" tvg-logo="" tvg-id2="" group-title="🌍 UK : Sport",|UK| Eir Spor: 1 4K+
+http://login.lionboxxtv.xyz:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/13916
+#EXTINF:-1 tvg-id="" tvg-name="|UK| Racing UK 4K+" tvg-logo="" tvg-id2="" group-title="🌍 UK : Sport",|UK| Racing UK 4K+
+http://login.lionboxxtv.xyz:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/13917
 #EXTINF:-1 tvg-id="ziggosport.nl" tvg-name="|NL| Ziggo Sport 4K+" tvg-logo="" tvg-id2="" group-title="🌍 NL : Sport",|NL| Ziggo Sport 4K+
 http://login.lionboxxtv.xyz:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/287
 #EXTINF:-1 tvg-id="ziggosportselect.nl" tvg-name="|NL| Ziggo Sport Select 4K+" tvg-logo="" tvg-id2="" group-title="🌍 NL : Sport",|NL| Ziggo Sport Select 4K+
@@ -192,50 +246,6 @@ http://login.lionboxxtv.xyz:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/802
 http://login.lionboxxtv.xyz:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/803
 #EXTINF:-1 tvg-id="" tvg-name="|FR| Téléfoot Stadium 8" tvg-logo="" tvg-id2="" group-title="🌍 FR : Sport",|FR| Téléfoot Stadium 8
 http://login.lionboxxtv.xyz:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/804
-#EXTINF:-1 tvg-id="" tvg-name="|UK| Sky Sport Haber: 4K+" tvg-logo="" tvg-id2="" group-title="🌍 UK : Sport",|UK| Sky Sport Haber: 4K+
-http://login.lionboxxtv.xyz:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/13891
-#EXTINF:-1 tvg-id="" tvg-name="|UK| Sky Spor: Action 4K+" tvg-logo="" tvg-id2="" group-title="🌍 UK : Sport",|UK| Sky Spor: Action 4K+
-http://login.lionboxxtv.xyz:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/13892
-#EXTINF:-1 tvg-id="" tvg-name="|UK| Sky Spor: Futbol: 4K+" tvg-logo="" tvg-id2="" group-title="🌍 UK : Sport",|UK| Sky Spor: Futbol: 4K+
-http://login.lionboxxtv.xyz:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/13893
-#EXTINF:-1 tvg-id="" tvg-name="|UK| Sky Spor: Golf 4K+" tvg-logo="" tvg-id2="" group-title="🌍 UK : Sport",|UK| Sky Spor: Golf 4K+
-http://login.lionboxxtv.xyz:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/13894
-#EXTINF:-1 tvg-id="" tvg-name="|UK| Sky Spor: Cricket 4K+" tvg-logo="" tvg-id2="" group-title="🌍 UK : Sport",|UK| Sky Spor: Cricket 4K+
-http://login.lionboxxtv.xyz:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/13895
-#EXTINF:-1 tvg-id="" tvg-name="|UK| Sky Spor: F1 4K+" tvg-logo="" tvg-id2="" group-title="🌍 UK : Sport",|UK| Sky Spor: F1 4K+
-http://login.lionboxxtv.xyz:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/13896
-#EXTINF:-1 tvg-id="" tvg-name="|UK| Sky Spor: Arena 4K+" tvg-logo="" tvg-id2="" group-title="🌍 UK : Sport",|UK| Sky Spor: Arena 4K+
-http://login.lionboxxtv.xyz:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/13897
-#EXTINF:-1 tvg-id="" tvg-name="|UK| Sky Spor: Mix 4K+" tvg-logo="" tvg-id2="" group-title="🌍 UK : Sport",|UK| Sky Spor: Mix 4K+
-http://login.lionboxxtv.xyz:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/13898
-#EXTINF:-1 tvg-id="" tvg-name="|UK| Sky Spor: Main Event 4K+" tvg-logo="" tvg-id2="" group-title="🌍 UK : Sport",|UK| Sky Spor: Main Event 4K+
-http://login.lionboxxtv.xyz:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/13899
-#EXTINF:-1 tvg-id="" tvg-name="|UK| Sky Spor: Premier League 4K+" tvg-logo="" tvg-id2="" group-title="🌍 UK : Sport",|UK| Sky Spor: Premier League 4K+
-http://login.lionboxxtv.xyz:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/13900
-#EXTINF:-1 tvg-id="" tvg-name="|UK| BT Sport ESPN 4K+" tvg-logo="" tvg-id2="" group-title="🌍 UK : Sport",|UK| BT Sport ESPN 4K+
-http://login.lionboxxtv.xyz:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/13901
-#EXTINF:-1 tvg-id="" tvg-name="|UK| BT Sport 1 4K+" tvg-logo="" tvg-id2="" group-title="🌍 UK : Sport",|UK| BT Sport 1 4K+
-http://login.lionboxxtv.xyz:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/13902
-#EXTINF:-1 tvg-id="" tvg-name="|UK| BT Sport 2 4K+" tvg-logo="" tvg-id2="" group-title="🌍 UK : Sport",|UK| BT Sport 2 4K+
-http://login.lionboxxtv.xyz:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/13903
-#EXTINF:-1 tvg-id="" tvg-name="|UK| BT Sport 3 4K+" tvg-logo="" tvg-id2="" group-title="🌍 UK : Sport",|UK| BT Sport 3 4K+
-http://login.lionboxxtv.xyz:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/13904
-#EXTINF:-1 tvg-id="" tvg-name="|UK| At The Races" tvg-logo="" tvg-id2="" group-title="🌍 UK : Sport",|UK| At The Races
-http://login.lionboxxtv.xyz:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/13911
-#EXTINF:-1 tvg-id="" tvg-name="|UK| Eurosport 1 4K+" tvg-logo="" tvg-id2="" group-title="🌍 UK : Sport",|UK| Eurosport 1 4K+
-http://login.lionboxxtv.xyz:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/13912
-#EXTINF:-1 tvg-id="" tvg-name="|UK| Liverpool TV 4K+" tvg-logo="" tvg-id2="" group-title="🌍 UK : Sport",|UK| Liverpool TV 4K+
-http://login.lionboxxtv.xyz:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/13913
-#EXTINF:-1 tvg-id="" tvg-name="|UK| Box Nation 4K+" tvg-logo="" tvg-id2="" group-title="🌍 UK : Sport",|UK| Box Nation 4K+
-http://login.lionboxxtv.xyz:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/13914
-#EXTINF:-1 tvg-id="" tvg-name="|UK| Premier Spor: 1 4K+" tvg-logo="" tvg-id2="" group-title="🌍 UK : Sport",|UK| Premier Spor: 1 4K+
-http://login.lionboxxtv.xyz:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/13915
-#EXTINF:-1 tvg-id="" tvg-name="|UK| Eir Spor: 1 4K+" tvg-logo="" tvg-id2="" group-title="🌍 UK : Sport",|UK| Eir Spor: 1 4K+
-http://login.lionboxxtv.xyz:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/13916
-#EXTINF:-1 tvg-id="" tvg-name="|UK| Racing UK 4K+" tvg-logo="" tvg-id2="" group-title="🌍 UK : Sport",|UK| Racing UK 4K+
-http://login.lionboxxtv.xyz:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/13917
-#EXTINF:-1 tvg-id="" tvg-name="|UK| MUTV" tvg-logo="" tvg-id2="" group-title="🌍 UK : Sport",|UK| MUTV
-http://login.lionboxxtv.xyz:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/13918
 #EXTINF:-1 tvg-id="" tvg-name="|PT| Sport TV 1 4K+" tvg-logo="" tvg-id2="" group-title="🌍 PT : Sport",|PT| Sport TV 1 4K+
 http://login.lionboxxtv.xyz:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/14550
 #EXTINF:-1 tvg-id="" tvg-name="|PT| Sport TV 2 4K+" tvg-logo="" tvg-id2="" group-title="🌍 PT : Sport",|PT| Sport TV 2 4K+
@@ -660,20 +670,6 @@ http://login.lionboxxtv.xyz:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/16182
 http://login.lionboxxtv.xyz:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/16183
 #EXTINF:-1 tvg-id="" tvg-name="|SW| C More Fotboll 4K+" tvg-logo="" tvg-id2="" group-title="🌍 SC : Scandinavie",|SW| C More Fotboll 4K+
 http://login.lionboxxtv.xyz:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/16184
-#EXTINF:-1 tvg-id="" tvg-name="AFG: Payam e Afghan TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/0689306db7d682c676c3e9122c379b2e.png" tvg-id2="" group-title="🌍 Afghanistan",AFG: Payam e Afghan TV
-http://37.49.225.182:8080/kodicologne/48e237edd2/66174
-#EXTINF:-1 tvg-id="" tvg-name="AFG: RTA Sport" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/a0d00b163fb3c77ae033d10950b00b33.png" tvg-id2="" group-title="🌍 Afghanistan",AFG: RTA Sport
-http://37.49.225.182:8080/kodicologne/48e237edd2/66167
-#EXTINF:-1 tvg-id="" tvg-name="AFG: Shamshad TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/9081d478591cb14771362d43e50261fc.png" tvg-id2="" group-title="🌍 Afghanistan",AFG: Shamshad TV
-http://37.49.225.182:8080/kodicologne/48e237edd2/159104
-#EXTINF:-1 tvg-id="" tvg-name="AFG: Tamadon TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/8cf8b9760f816f71691f35976975ef32.png" tvg-id2="" group-title="🌍 Afghanistan",AFG: Tamadon TV
-http://37.49.225.182:8080/kodicologne/48e237edd2/54330
-#EXTINF:-1 tvg-id="" tvg-name="AFG: Tolo Haber:" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/23f0ab14266f28f991faa05114aeea5c.png" tvg-id2="" group-title="🌍 Afghanistan",AFG: Tolo Haber:
-http://37.49.225.182:8080/kodicologne/48e237edd2/66181
-#EXTINF:-1 tvg-id="" tvg-name="AFG: Tolo TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/293d47a335824c7b8bb06dbf77762625.png" tvg-id2="" group-title="🌍 Afghanistan",AFG: Tolo TV
-http://37.49.225.182:8080/kodicologne/48e237edd2/66165
-#EXTINF:-1 tvg-id="" tvg-name="AFG: Zarin TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/8091aed99e2d0a7b99c82e2a27d5e89f.png" tvg-id2="" group-title="🌍 Afghanistan",AFG: Zarin TV
-http://37.49.225.182:8080/kodicologne/48e237edd2/196430
 #EXTINF:-1 tvg-id="" tvg-name="AFG: Zhwandoon TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/80b161a8f0a50131795595980c269f23.png" tvg-id2="" group-title="🌍 Afghanistan",AFG: Zhwandoon TV
 http://37.49.225.182:8080/kodicologne/48e237edd2/66172
 #EXTINF:-1 tvg-id="" tvg-name="AL: Arena Sport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/577d05bbbff32984817bb5651dc77549.png" tvg-id2="" group-title="🌍 Albania Spor:",AL: Arena Sport 1
@@ -742,22 +738,6 @@ http://37.49.225.182:8080/kodicologne/48e237edd2/1305
 http://37.49.225.182:8080/kodicologne/48e237edd2/1304
 #EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/6a7cf8d9da4b44e4a17d4874a96de13f.png" tvg-id2="" group-title="🌍 Albania Spor:",AL: Tring Sport 4
 http://37.49.225.182:8080/kodicologne/48e237edd2/1862
-#EXTINF:-1 tvg-id="skysportaustria.at" tvg-name="AT: Sky Sport Austria 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/3610fcefa8e58c4d9c27af91c71a7996.png" tvg-id2="" group-title="🌍 Austria",AT: Sky Sport Austria 1
-http://37.49.225.182:8080/kodicologne/48e237edd2/2130
-#EXTINF:-1 tvg-id="" tvg-name="AT: Sky Sport Austria 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/9fdbe61de418c860d0f51acab33cd3d5.png" tvg-id2="" group-title="🌍 Austria",AT: Sky Sport Austria 2
-http://37.49.225.182:8080/kodicologne/48e237edd2/192010
-#EXTINF:-1 tvg-id="" tvg-name="AT: Sky Sport Austria 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/bf0ec45566171fc1fe07e3bb7fda848f.png" tvg-id2="" group-title="🌍 Austria",AT: Sky Sport Austria 3
-http://37.49.225.182:8080/kodicologne/48e237edd2/192374
-#EXTINF:-1 tvg-id="" tvg-name="AT: Sky Sport Austria 4" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/1411fab83c8bffe7da7727a3d589afa8.png" tvg-id2="" group-title="🌍 Austria",AT: Sky Sport Austria 4
-http://37.49.225.182:8080/kodicologne/48e237edd2/295541
-#EXTINF:-1 tvg-id="" tvg-name="AT: Sky Sport Austria 5" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/65617951bce92e5e47beed8db2dad8a7.png" tvg-id2="" group-title="🌍 Austria",AT: Sky Sport Austria 5
-http://37.49.225.182:8080/kodicologne/48e237edd2/295542
-#EXTINF:-1 tvg-id="" tvg-name="AT: Sky Sport Austria 6" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/da00923e46c4a542ad3396823d35e0e6.png" tvg-id2="" group-title="🌍 Austria",AT: Sky Sport Austria 6
-http://37.49.225.182:8080/kodicologne/48e237edd2/295543
-#EXTINF:-1 tvg-id="" tvg-name="AT: Tirol TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/9f2d7b28e402c994e4372c1c0fc47faf.png" tvg-id2="" group-title="🌍 Austria",AT: Tirol TV
-http://37.49.225.182:8080/kodicologne/48e237edd2/285321
-#EXTINF:-1 tvg-id="" tvg-name="AT: TV 1 Oberösterreich" tvg-logo="http://s3.i3ns.net/portal/picon/2023-07/691b04875ede30af0c69531f7b5c58b2.svg" tvg-id2="" group-title="🌍 Austria",AT: TV 1 Oberösterreich
-http://37.49.225.182:8080/kodicologne/48e237edd2/299407
 #EXTINF:-1 tvg-id="" tvg-name="AT: VOX Austria" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/829dfd4fda58692df26cd4c0b24cc18c.png" tvg-id2="" group-title="🌍 Austria",AT: VOX Austria
 http://37.49.225.182:8080/kodicologne/48e237edd2/174242
 #EXTINF:-1 tvg-id="" tvg-name="AT: W24" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/92cee47e04b4783bf4d1c9d23d35ae0d.png" tvg-id2="" group-title="🌍 Austria",AT: W24
@@ -1196,16 +1176,6 @@ http://37.49.225.182:8080/kodicologne/48e237edd2/231627
 http://37.49.225.182:8080/kodicologne/48e237edd2/60499
 #EXTINF:-1 tvg-id="" tvg-name="RU: Match! Strana (Матч! Страна)" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d169a7e7823fd38cee22c10784ed8b6c.png" tvg-id2="" group-title="🌍 Russia Spor:",RU: Match! Strana (Матч! Страна)
 http://37.49.225.182:8080/kodicologne/48e237edd2/148347
-#EXTINF:-1 tvg-id="" tvg-name="RU: Viju+ Sport" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/4154d2d0969db3665dd34bffab59e5d3.png" tvg-id2="" group-title="🌍 Russia Spor:",RU: Viju+ Sport
-http://37.49.225.182:8080/kodicologne/48e237edd2/12811
-#EXTINF:-1 tvg-id="" tvg-name="SA: KSA Spor: 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/a851bb7c5ec11b71465734e164a57306.jpg" tvg-id2="" group-title="🌍 Saudi Arabia",SA: KSA Spor: 1
-http://37.49.225.182:8080/kodicologne/48e237edd2/17318
-#EXTINF:-1 tvg-id="" tvg-name="SA: KSA Spor: 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d9a58bfe72263f7d8f8b8a5286a8d6e0.png" tvg-id2="" group-title="🌍 Saudi Arabia",SA: KSA Spor: 2
-http://37.49.225.182:8080/kodicologne/48e237edd2/17316
-#EXTINF:-1 tvg-id="" tvg-name="SA: KSA Spor: 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6bfa32c96758e605fb9ddfee4d31e03b.png" tvg-id2="" group-title="🌍 Saudi Arabia",SA: KSA Spor: 3
-http://37.49.225.182:8080/kodicologne/48e237edd2/43712
-#EXTINF:-1 tvg-id="" tvg-name="SA: KSA Spor: 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/21dd857c7302aabc9f88a440e92c338e.png" tvg-id2="" group-title="🌍 Saudi Arabia",SA: KSA Spor: 4
-http://37.49.225.182:8080/kodicologne/48e237edd2/268595
 #EXTINF:-1 tvg-id="cmorefotboll.se" tvg-name="SE: C More Fotboll" tvg-logo="http://s3.i3ns.net/portal/picon/2021-01/c2e442a7139731381a615f7b0815d7cb.png" tvg-id2="" group-title="🌍 Sweden Spor:",SE: C More Fotboll
 http://37.49.225.182:8080/kodicologne/48e237edd2/10659
 #EXTINF:-1 tvg-id="" tvg-name="SE: C More Hockey" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/86b3211857c5b260a54d1893241b988c.png" tvg-id2="" group-title="🌍 Sweden Spor:",SE: C More Hockey
