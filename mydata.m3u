@@ -109,6 +109,26 @@ http://login.lionboxxtv.xyz:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/309
 http://login.lionboxxtv.xyz:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/302
 #EXTINF:-1 tvg-id="" tvg-name="|NL| SuperSport Premier League" tvg-logo="" tvg-id2="" group-title="🌍 NL : Sport",|NL| SuperSport Premier League
 http://login.lionboxxtv.xyz:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/71713
+#EXTINF:-1 tvg-id="espn.nl" tvg-name="NL: ESPN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fba7aa6abb3a938d6d2da99a29f57a8c.png" tvg-id2="" group-title="🌍 NL : Sport",NL: ESPN
+http://37.49.225.182:8080/kodicologne/48e237edd2/267209
+#EXTINF:-1 tvg-id="espn2.nl" tvg-name="NL: ESPN 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f8d4dbda121c0cfc982516038b068e70.png" tvg-id2="" group-title="🌍 NL : Sport",NL: ESPN 2
+http://37.49.225.182:8080/kodicologne/48e237edd2/272119
+#EXTINF:-1 tvg-id="espn3.nl" tvg-name="NL: ESPN 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/60f126e910a86dc97e8c75e0e799fad0.png" tvg-id2="" group-title="🌍 NL : Sport",NL: ESPN 3
+http://37.49.225.182:8080/kodicologne/48e237edd2/272120
+#EXTINF:-1 tvg-id="espn4.nl" tvg-name="NL: ESPN 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/25459a2e8dd1ae1419024458ee7d4418.png" tvg-id2="" group-title="🌍 NL : Sport",NL: ESPN 4
+http://37.49.225.182:8080/kodicologne/48e237edd2/272121
+#EXTINF:-1 tvg-id="" tvg-name="NL: Extreme Spor: Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/aa0fc79ca9161e91df4ca4c235feb2d6.png" tvg-id2="" group-title="🌍 NL : Sport,NL: Extreme Spor: Channel
+http://37.49.225.182:8080/kodicologne/48e237edd2/5329
+#EXTINF:-1 tvg-id="ziggosportdocu.nl" tvg-name="NL: ZIGGO Docu" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/addd41b3b4e714bc55d097a2d477fbdd.jpg" tvg-id2="" group-title="🌍 NL : Sport",NL: ZIGGO Docu
+http://37.49.225.182:8080/kodicologne/48e237edd2/5327
+#EXTINF:-1 tvg-id="ziggosportgolf.nl" tvg-name="NL: ZIGGO Golf" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/afe050374551a2767019f331cf74dc05.png" tvg-id2="" group-title="🌍 NL : Sport",NL: ZIGGO Golf
+http://37.49.225.182:8080/kodicologne/48e237edd2/4514
+#EXTINF:-1 tvg-id="ziggosportracing.nl" tvg-name="NL: ZIGGO Racing" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/478f67bb97135c0385065d63c872a9a5.png" tvg-id2="" group-title="🌍 NL : Sport",NL: ZIGGO Racing
+http://37.49.225.182:8080/kodicologne/48e237edd2/4515
+#EXTINF:-1 tvg-id="ziggosportselect.nl" tvg-name="NL: ZIGGO Select" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/d1bfb1240f4d7a3afa266815fff73b64.png" tvg-id2="" group-title="🌍 NL : Sport,NL: ZIGGO Select
+http://37.49.225.182:8080/kodicologne/48e237edd2/851
+#EXTINF:-1 tvg-id="ziggosportextra1.nl" tvg-name="NL: ZIGGO Tennis" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/51e38af8161b067a2fbcba9d806eab67.png" tvg-id2="" group-title="🌍 NL : Sport",NL: ZIGGO Tennis
+http://37.49.225.182:8080/kodicologne/48e237edd2/2500
 #EXTINF:-1 tvg-id="" tvg-name="|NL| SuperSport Variety 1" tvg-logo="" tvg-id2="" group-title="🌍 NL : Sport",|NL| SuperSport Variety 1
 http://login.lionboxxtv.xyz:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/81995
 #EXTINF:-1 tvg-id="" tvg-name="|NL| SuperSport Variety 2" tvg-logo="" tvg-id2="" group-title="🌍 NL : Sport",|NL| SuperSport Variety 2
@@ -821,26 +841,6 @@ http://37.49.225.182:8080/kodicologne/48e237edd2/77769
 http://37.49.225.182:8080/kodicologne/48e237edd2/14987
 #EXTINF:-1 tvg-id="" tvg-name="HU: Sport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f1d12bd490928de163de261dd7590183.png" tvg-id2="" group-title="🌍 Hungary Spor:",HU: Sport 2
 http://37.49.225.182:8080/kodicologne/48e237edd2/14988
-#EXTINF:-1 tvg-id="espn.nl" tvg-name="NL: ESPN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fba7aa6abb3a938d6d2da99a29f57a8c.png" tvg-id2="" group-title="🌍 Netherlands Spor:",NL: ESPN
-http://37.49.225.182:8080/kodicologne/48e237edd2/267209
-#EXTINF:-1 tvg-id="espn2.nl" tvg-name="NL: ESPN 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f8d4dbda121c0cfc982516038b068e70.png" tvg-id2="" group-title="🌍 Netherlands Spor:",NL: ESPN 2
-http://37.49.225.182:8080/kodicologne/48e237edd2/272119
-#EXTINF:-1 tvg-id="espn3.nl" tvg-name="NL: ESPN 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/60f126e910a86dc97e8c75e0e799fad0.png" tvg-id2="" group-title="🌍 Netherlands Spor:",NL: ESPN 3
-http://37.49.225.182:8080/kodicologne/48e237edd2/272120
-#EXTINF:-1 tvg-id="espn4.nl" tvg-name="NL: ESPN 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/25459a2e8dd1ae1419024458ee7d4418.png" tvg-id2="" group-title="🌍 Netherlands Spor:",NL: ESPN 4
-http://37.49.225.182:8080/kodicologne/48e237edd2/272121
-#EXTINF:-1 tvg-id="" tvg-name="NL: Extreme Spor: Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/aa0fc79ca9161e91df4ca4c235feb2d6.png" tvg-id2="" group-title="🌍 Netherlands Spor:",NL: Extreme Spor: Channel
-http://37.49.225.182:8080/kodicologne/48e237edd2/5329
-#EXTINF:-1 tvg-id="ziggosportdocu.nl" tvg-name="NL: ZIGGO Docu" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/addd41b3b4e714bc55d097a2d477fbdd.jpg" tvg-id2="" group-title="🌍 Netherlands Spor:",NL: ZIGGO Docu
-http://37.49.225.182:8080/kodicologne/48e237edd2/5327
-#EXTINF:-1 tvg-id="ziggosportgolf.nl" tvg-name="NL: ZIGGO Golf" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/afe050374551a2767019f331cf74dc05.png" tvg-id2="" group-title="🌍 Netherlands Spor:",NL: ZIGGO Golf
-http://37.49.225.182:8080/kodicologne/48e237edd2/4514
-#EXTINF:-1 tvg-id="ziggosportracing.nl" tvg-name="NL: ZIGGO Racing" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/478f67bb97135c0385065d63c872a9a5.png" tvg-id2="" group-title="🌍 Netherlands Spor:",NL: ZIGGO Racing
-http://37.49.225.182:8080/kodicologne/48e237edd2/4515
-#EXTINF:-1 tvg-id="ziggosportselect.nl" tvg-name="NL: ZIGGO Select" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/d1bfb1240f4d7a3afa266815fff73b64.png" tvg-id2="" group-title="🌍 Netherlands Spor:",NL: ZIGGO Select
-http://37.49.225.182:8080/kodicologne/48e237edd2/851
-#EXTINF:-1 tvg-id="ziggosportextra1.nl" tvg-name="NL: ZIGGO Tennis" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/51e38af8161b067a2fbcba9d806eab67.png" tvg-id2="" group-title="🌍 Netherlands Spor:",NL: ZIGGO Tennis
-http://37.49.225.182:8080/kodicologne/48e237edd2/2500
 #EXTINF:-1 tvg-id="" tvg-name="NO: Rikstoto Direkte" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/951c4e99894cf6e1f3bcdcf7f161008a.png" tvg-id2="" group-title="🌍 Norway Spor:",NO: Rikstoto Direkte
 http://37.49.225.182:8080/kodicologne/48e237edd2/90879
 #EXTINF:-1 tvg-id="" tvg-name="NO: TV 2 Sport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/1ef8c7a902c1dd5955a63c0d4241aeae.svg" tvg-id2="" group-title="🌍 Norway Spor:",NO: TV 2 Sport 1
