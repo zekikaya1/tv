@@ -117,7 +117,7 @@ http://37.49.225.182:8080/kodicologne/48e237edd2/272119
 http://37.49.225.182:8080/kodicologne/48e237edd2/272120
 #EXTINF:-1 tvg-id="espn4.nl" tvg-name="NL: ESPN 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/25459a2e8dd1ae1419024458ee7d4418.png" tvg-id2="" group-title="🌍 NL : Sport",NL: ESPN 4
 http://37.49.225.182:8080/kodicologne/48e237edd2/272121
-#EXTINF:-1 tvg-id="" tvg-name="NL: Extreme Spor: Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/aa0fc79ca9161e91df4ca4c235feb2d6.png" tvg-id2="" group-title="🌍 NL : Sport,NL: Extreme Spor: Channel
+#EXTINF:-1 tvg-id="" tvg-name="NL: Extreme Spor: Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/aa0fc79ca9161e91df4ca4c235feb2d6.png" tvg-id2="" group-title="🌍 NL : Sport”,NL: Extreme Spor: Channel
 http://37.49.225.182:8080/kodicologne/48e237edd2/5329
 #EXTINF:-1 tvg-id="ziggosportdocu.nl" tvg-name="NL: ZIGGO Docu" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/addd41b3b4e714bc55d097a2d477fbdd.jpg" tvg-id2="" group-title="🌍 NL : Sport",NL: ZIGGO Docu
 http://37.49.225.182:8080/kodicologne/48e237edd2/5327
@@ -125,7 +125,7 @@ http://37.49.225.182:8080/kodicologne/48e237edd2/5327
 http://37.49.225.182:8080/kodicologne/48e237edd2/4514
 #EXTINF:-1 tvg-id="ziggosportracing.nl" tvg-name="NL: ZIGGO Racing" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/478f67bb97135c0385065d63c872a9a5.png" tvg-id2="" group-title="🌍 NL : Sport",NL: ZIGGO Racing
 http://37.49.225.182:8080/kodicologne/48e237edd2/4515
-#EXTINF:-1 tvg-id="ziggosportselect.nl" tvg-name="NL: ZIGGO Select" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/d1bfb1240f4d7a3afa266815fff73b64.png" tvg-id2="" group-title="🌍 NL : Sport,NL: ZIGGO Select
+#EXTINF:-1 tvg-id="ziggosportselect.nl" tvg-name="NL: ZIGGO Select" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/d1bfb1240f4d7a3afa266815fff73b64.png" tvg-id2="" group-title="🌍 NL : Sport,NL”: ZIGGO Select
 http://37.49.225.182:8080/kodicologne/48e237edd2/851
 #EXTINF:-1 tvg-id="ziggosportextra1.nl" tvg-name="NL: ZIGGO Tennis" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/51e38af8161b067a2fbcba9d806eab67.png" tvg-id2="" group-title="🌍 NL : Sport",NL: ZIGGO Tennis
 http://37.49.225.182:8080/kodicologne/48e237edd2/2500
